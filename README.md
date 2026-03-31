@@ -4,6 +4,9 @@
 
 ---
 
+## Youtube Demo Link
+https://youtu.be/lQOq0-rccI8
+
 ## Overview
 
 In this lab you will build **FleetBook**, a vehicle booking system that combines **Azure Service Bus**, **Azure Logic Apps**, and **Azure Functions** into a realistic end-to-end serverless workflow.

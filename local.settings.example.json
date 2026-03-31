@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "PRIMARY_CONNECTION_STRING": "<your primary connection string here>",
+    "PRIMARY_KEY": "<your primary key here>"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
